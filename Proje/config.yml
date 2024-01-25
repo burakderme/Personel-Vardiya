@@ -1,0 +1,4 @@
+database: test
+host: localhost
+password: ''
+user: root
